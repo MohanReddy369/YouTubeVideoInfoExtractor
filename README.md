@@ -1,4 +1,4 @@
-YouTube Video Info Extractor 🎬
+##YouTube Video Info Extractor 🎬
 
 A simple web project that extracts video thumbnail, channel name, views, published date, and description from YouTube videos using the YouTube Data API v3.
 
