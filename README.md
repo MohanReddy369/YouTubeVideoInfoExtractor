@@ -16,7 +16,7 @@ A simple web project that extracts video thumbnail, channel name, views, publish
 
 YouTube Data API v3
 
-HTML, CSS, JavaScript
+HTML, JavaScript
 
 🔑 How to Get Your YouTube API Key
 
