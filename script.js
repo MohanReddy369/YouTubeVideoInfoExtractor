@@ -1,4 +1,4 @@
-const API_KEY = ""; // <-- Replace with your API Key(The API name is:YouTube Data API v3)
+const API_KEY = "YOUR_API_KEY_HERE"; // <-- Replace with your API Key(The API name is:YouTube Data API v3)
 
 document.getElementById("getInfoBtn").addEventListener("click", async function() {
     const url = document.getElementById("videoUrl").value.trim();
@@ -65,3 +65,4 @@ document.getElementById("getInfoBtn").addEventListener("click", async function()
         document.getElementById("result").innerHTML = "Error fetching video info!";
     }
 });
+
